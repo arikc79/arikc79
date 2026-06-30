@@ -33,9 +33,9 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br><sub><b>Python</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=django" width="48"/><br><sub><b>Django</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="48"/><br><sub><b>DRF</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="48"/><br><sub><b>C#</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="48"/><br><sub><b>.NET</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br><sub><b>PostgreSQL</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="48"/><br><sub><b>ASP.NET Core</b></sub></td>
   </tr>
 </table>
 
@@ -43,27 +43,60 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br><sub><b>HTML</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br><sub><b>CSS</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/><br><sub><b>JavaScript</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48"/><br><sub><b>TypeScript</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"/><br><sub><b>React</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="48"/><br><sub><b>Vue.js</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48"/><br><sub><b>TypeScript</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/><br><sub><b>JavaScript</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vite" width="48"/><br><sub><b>Vite</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br><sub><b>HTML</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br><sub><b>CSS</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br><sub><b>Tailwind</b></sub></td>
   </tr>
 </table>
 
-<h3 align="left">Development Tools:</h3>
+<h3 align="left">Databases:</h3>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br><sub><b>PostgreSQL</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="48"/><br><sub><b>Supabase</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sqlserver" width="48"/><br><sub><b>MS SQL Server</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="48"/><br><sub><b>Entity Framework</b></sub></td>
+  </tr>
+</table>
+
+<h3 align="left">ML / AI:</h3>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=azure" width="48"/><br><sub><b>Azure Custom Vision</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br><sub><b>scikit-learn</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br><sub><b>Pandas</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="48"/><br><sub><b>Microsoft.ML</b></sub></td>
+  </tr>
+</table>
+
+<h3 align="left">Deploy / Cloud:</h3>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=azure" width="48"/><br><sub><b>Microsoft Azure</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br><sub><b>Vercel</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=render" width="48"/><br><sub><b>Render</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=railway" width="48"/><br><sub><b>Railway</b></sub></td>
+  </tr>
+</table>
+
+<h3 align="left">Tools:</h3>
 
 <table>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br><sub><b>Git</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br><sub><b>GitHub</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br><sub><b>VS Code</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br><sub><b>Postman</b></sub></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=azure" width="48"/><br><sub><b>Azure</b></sub></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br><sub><b>Docker</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br><sub><b>VS Code</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br><sub><b>Postman / Swagger</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=eslint" width="48"/><br><sub><b>ESLint</b></sub></td>
   </tr>
 </table>
 
